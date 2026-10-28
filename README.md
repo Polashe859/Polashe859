@@ -1,4 +1,4 @@
-# I'm @Polashe859, currently a struggling math undergrad. 😶‍🌫️
+# I'm @Polashe859, currently a struggling math undergrad.
 
 My main interests are:
   -  Python;
